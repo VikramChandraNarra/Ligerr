@@ -9,6 +9,7 @@
 
 
 function display(board) {
+    // Crate a sample line
     // Design Board
     // Design Board Pieces
     // Design the animations of the pieces
