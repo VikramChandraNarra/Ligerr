@@ -4,7 +4,7 @@ Ligerr is an indian inspired board game. A game that poses two sides to a battle
 Numbers vs. Power. Who will come out victorious?
 
 Instructions:
-Players will choose wheter they would want to play as a Tiger or a Lamb. 
+Players will choose whether they would want to play as a Tiger or a Lamb. 
 The number of pieces vary for the chosen side.
 Tiger: 3
 Lamb: 13
@@ -20,3 +20,6 @@ if they capture more than 7 Lambs.
 
 Lambs can not cature, they can only move. The Lambs can win if they manage to trap
 all three of the Tigers. 
+
+
+MORE DETAILS COMING SOON. . . .
